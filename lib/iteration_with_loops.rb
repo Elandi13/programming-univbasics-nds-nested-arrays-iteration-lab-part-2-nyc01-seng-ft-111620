@@ -11,7 +11,7 @@ while row_index < src.count do
     end
     element_index += 1
   end
-  outer_resits << lowest_value
+  outer_results << lowest_value
   row_index += 1
  end
 outer_results
