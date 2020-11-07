@@ -13,5 +13,4 @@ while row_index < src.count do
   end
   outer_resits << lowest_value
   ow_index += 1
-  
 end
